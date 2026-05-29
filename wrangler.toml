@@ -1,4 +1,4 @@
-name = "Googe-Fd"
+name = "googe-d"
 main = "worker.js"
 compatibility_date = "2026-05-29"
 keep_vars = true
